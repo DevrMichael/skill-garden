@@ -1,5 +1,5 @@
 ---
-name: test-components-responsive-devices
+name: sg-test-components-responsive-devices
 description: Test UI-komponenter på tvers av iOS- og Android-simulatorer med ulike skjermstørrelser for å sikre at de ser bra ut på alle enheter. Bruk denne skillen når brukeren vil verifisere responsivt design, teste komponenter på mobile enheter, sjekke layout på ulike skjermstørrelser, eller sikre UI-konsistens på tvers av plattformer. Hjelper med å identifisere visuelle bugs, layout-problemer, og gir anbefalinger for fikser.
 ---
 

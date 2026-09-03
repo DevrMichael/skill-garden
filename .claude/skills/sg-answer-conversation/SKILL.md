@@ -1,5 +1,5 @@
 ---
-name: answer-conversation
+name: sg-answer-conversation
 description: Ta utdrag fra en samtale (Slack, e-post, eller annet) og svar på den siste meldingen i den. Bruk denne skillen når brukeren limer inn en tråd eller et samtaleutdrag og vil ha et svar utformet, som speiler tonen som allerede er etablert av de tidligere meldingene i samtalen.
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: write-tests
+name: sg-write-tests
 description: Skriv tester til en spesifikk oppgave dere jobber med, eller utvid testdekningen på et område brukeren peker deg til. Bruk denne skillen når eksisterende kode mangler tester og brukeren ber om å få lagt til testdekning. Brukes ikke når implement-skillen allerede dekker det test-først (TDD) som en del av å bygge ny funksjonalitet.
 ---
 

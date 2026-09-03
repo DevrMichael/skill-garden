@@ -1,5 +1,5 @@
 ---
-name: sharpen-plan
+name: sg-sharpen-plan
 description: Vurder en plan brukeren har gitt deg, eller som dere har kommet opp med sammen, og grill brukeren med spørsmål for å komme frem til den beste løsningen før dere begynner å bygge. Bruk denne skillen når brukeren vil pressteste en plan før implementasjon, eller ber om en second opinion på en tilnærming. Vurderer planen opp mot koden, teamets OKR-er og organisasjonens visjon — målet er ikke å komme raskest mulig i gang, men å finne ut om planen faktisk tar dere nærmere de overordnede målene.
 ---
 

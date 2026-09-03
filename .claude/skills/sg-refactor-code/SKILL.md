@@ -1,5 +1,5 @@
 ---
-name: refactor-code
+name: sg-refactor-code
 description: Se gjennom kode — enten det brukeren peker deg til eller hele kodebasen — for muligheter til å refaktorere den slik at den blir mer bærekraftig. Bruk denne skillen når brukeren ber om refactoring, ønsker å rydde opp i eksisterende kode, eller lurer på om en del av arkitekturen kan forenkles.
 ---
 

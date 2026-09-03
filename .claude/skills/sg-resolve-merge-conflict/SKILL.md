@@ -1,5 +1,5 @@
 ---
-name: resolve-merge-conflict
+name: sg-resolve-merge-conflict
 description: Fiks merge-konflikten(e) på gjeldende branch. Bruk denne skillen når git rapporterer konflikterende filer under en merge eller rebase, eller når brukeren ber om hjelp til å løse en merge-konflikt. Forstår intensjonen bak begge sidene av konflikten før den løses, slik at ingens arbeid går tapt.
 ---
 

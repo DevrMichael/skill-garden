@@ -1,5 +1,5 @@
 ---
-name: implement
+name: sg-implement
 description: Implementer kode basert på en gitt oppgave, test-først (TDD), med typechecking underveis. Bruk denne skillen når brukeren ber om å bygge ny funksjonalitet. Skriver minst mulig kode av høy kvalitet som løser oppgaven, kjører deretter review-code-skillen og går tilbake og fikser det som må fikses til reviewen består.
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: diagnose-bugs
+name: sg-diagnose-bugs
 description: Reproduser, isoler og finn rotårsaken til en bug i koden. Bruk denne skillen når brukeren rapporterer en feil, uventet oppførsel, eller ber om å finne ut hvorfor noe ikke fungerer. Prioriterer bugs som er ødeleggende for appen (krasjer, datatap, feil som blokkerer kjernefunksjonalitet) foran mindre kosmetiske feil.
 ---
 

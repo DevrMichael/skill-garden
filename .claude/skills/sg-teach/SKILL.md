@@ -1,5 +1,5 @@
 ---
-name: teach
+name: sg-teach
 description: Vær en lærer innenfor et gitt tema og lær brukeren det de trenger å vite for selv å kunne forklare det videre til noen andre som heller ikke kan det. Bruk denne skillen når brukeren ber om å bli lært opp i et konsept, en teknologi, eller deler av kodebasen. Fokuserer på de viktigste konseptene og kutter det som ikke er nødvendig eller som kan gjøre ting mer forvirrende.
 ---
 

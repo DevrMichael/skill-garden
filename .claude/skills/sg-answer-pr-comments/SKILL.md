@@ -1,5 +1,5 @@
 ---
-name: answer-pr-comments
+name: sg-answer-pr-comments
 description: Adresser PR-kommentarer på gjeldende branch på en gjennomtenkt og samarbeidsvillig måte. Bruk denne skillen når brukeren vil håndtere tilbakemeldinger fra code review, svare på PR-kommentarer, eller jobbe seg gjennom reviewer-forslag. Hjelper med å liste opp alle kommentarer, diskutere dem én og én, foreslå løsninger basert på koden, og holde en uformell, åpen dialog.
 ---
 

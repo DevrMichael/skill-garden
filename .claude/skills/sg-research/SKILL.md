@@ -1,5 +1,5 @@
 ---
-name: research
+name: sg-research
 description: Gjør teknisk research basert på høykvalitets primærkilder — offisiell dokumentasjon, spesifikasjoner, kildekode — ikke blogginnlegg eller sekundærkilder. Bruk denne skillen når brukeren ber om å undersøke en teknologi, et bibliotek, en standard, eller vil ha en vurdering basert på pålitelige kilder. Gir en oversikt over funnene på en lesbar og oversiktlig måte.
 ---
 

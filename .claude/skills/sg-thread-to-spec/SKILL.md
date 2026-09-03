@@ -1,5 +1,5 @@
 ---
-name: thread-to-spec
+name: sg-thread-to-spec
 description: Ta en samtale-tråd eller møtenotater og lag en spec ut av det. Bruk denne skillen når brukeren gir deg rå diskusjon (Slack-tråd, møtenotater, en lang samtale) og ønsker et strukturert spec-dokument ut av det. Specen skal være oversiktlig og lett presenterbar for andre, og må få med hva problemet er og hvordan man foreslår å løse det. Kan brukes sammen med write-doc-to-notion for å publisere resultatet.
 ---
 

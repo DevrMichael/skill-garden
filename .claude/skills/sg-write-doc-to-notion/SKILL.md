@@ -1,5 +1,5 @@
 ---
-name: write-doc-to-notion
+name: sg-write-doc-to-notion
 description: Skriv et Notion-dokument med informasjonen som er gitt, og finn riktig sted i Notion for det til å leve. Bruk denne skillen når brukeren ber om å få skrevet, publisert eller oppdatert et dokument i Notion. Dokumentet skal være lett leselig og uten unødvendig fluff.
 ---
 

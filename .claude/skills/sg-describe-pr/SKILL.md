@@ -1,5 +1,5 @@
 ---
-name: describe-pr
+name: sg-describe-pr
 description: Skriv en PR-beskrivelse basert på kodeendringene — enten uncommittede endringer eller det som allerede er committet på branchen — som følger repoets PR-mal. Bruk denne skillen når brukeren vil ha en PR-beskrivelse utformet, vil ha hjelp til å skrive opp hva en branch gjør, eller er i ferd med å åpne en pull request. Forklarer problemet som løses og hva som ble gjort for å løse det, skrevet slik at noen uten kontekst på oppgaven kan følge det.
 ---
 

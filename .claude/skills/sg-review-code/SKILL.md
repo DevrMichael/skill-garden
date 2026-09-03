@@ -1,5 +1,5 @@
 ---
-name: review-code
+name: sg-review-code
 description: Review koden i changes og/eller det som er committet på branchen, med fokus på industristandard, DRY-prinsippet, sikkerhet, ytelse og at alle tester består. Bruk denne skillen når brukeren ber om kodegjennomgang, code review, eller vil vite om koden er klar til å merges. Vurderer også om implementasjonen kunne vært gjort enklere og mer bærekraftig, og gir konkret, presis tilbakemelding uten fluff.
 ---
 
